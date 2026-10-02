@@ -16,9 +16,8 @@ items:
  - sf585978/cssReadingList
  - damian0604/bdaca/blob/master/book/bd-aca_book.pdf
  - vtraag/4TU-CSS
- - honeyAndSw/computational-social-science
  - 5harad/css
- - jaeyk/PS239T
+ - jaeyk/comp_thinking_social_science
  - jhofman/css2013
  - mac389/snappy
  - peterdalle/mediacommtools
@@ -27,7 +26,7 @@ items:
  - mobileink/lab.compss
  - sschauss/css
  - jongbinjung/css-python-workshop 
- - adamrpah/KPHD_CSS
+ - adamrpah/CSSMA
  - cbpuschmann/stm_ic2s2
  - ohexel/comsocsci
  - atkindel/css_activities
@@ -37,7 +36,6 @@ items:
  - maczokni/crimemapping_textbook_bookdown
  - maczokni/r-socialsci
  - CJWorkbench
- - CullenBoldt/CSSproject
  - sagepublishing/Hogan-FSStDS-draft-chapters-2019
  - sagepublishing/Bernauer-DQTAwR-draft-chapters-2019
  

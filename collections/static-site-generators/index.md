@@ -2,27 +2,35 @@
 items:
  - jekyll/jekyll
  - gohugoio/hugo
- - 11ty/eleventy
+ - 11ty/buildawesome
  - gatsbyjs/gatsby
  - vuejs/vuepress
- - hexojs/hexo
  - vercel/next.js
  - getpelican/pelican
- - facebook/Docusaurus
+ - facebook/docusaurus
  - slatedocs/slate
- - nuxt/nuxt.js
+ - nuxt/nuxt
  - gridsome/gridsome
  - middleman/middleman
  - react-static/react-static
  - docsifyjs/docsify
  - mkdocs/mkdocs
  - sintaxi/harp
- - netlify/netlify-cms
+ - decaporg/decap-cms
  - jaspervdj/hakyll
  - umijs/umi
  - abelljs/abell
- - snowpackjs/astro
- - tlienart/Franklin.jl
+ - withastro/astro
+ - JuliaDocs/Franklin.jl
+ - getzola/zola
+ - lumeland/lume
+ - docsifyjs/docsify
+ - shuding/nextra
+ - twostraws/Ignite
+ - JohnSundell/Publish
+ - fuma-nama/fumadocs
+ - rochacbruno/marmite
+ - quarkiverse/quarkus-roq
 display_name: Static Site Generators
 created_by: jakejarvis
 ---

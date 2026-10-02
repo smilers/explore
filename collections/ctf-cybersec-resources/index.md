@@ -13,14 +13,14 @@ items:
  - apsdehal/awesome-ctf
  - quasar/Quasar
  - AlisamTechnology/ATSCAN
- - Ciphey/Ciphey
- - bkimminich/juice-shop
+ - bee-san/Ciphey
+ - juice-shop/juice-shop
  - pwndbg/pwndbg
  - yeyintminthuhtut/Awesome-Red-Teaming
  - google/google-ctf
  - laramies/theHarvester
  - orangetw/My-CTF-Web-Challenges
- - Ganapati/RsaCtfTool
+ - RsaCtfTool/RsaCtfTool
  - Ignitetechnologies/Privilege-Escalation
  - w181496/Web-CTF-Cheatsheet
  - terjanq/Tiny-XSS-Payloads
@@ -42,7 +42,7 @@ items:
  - teambi0s/BSides-CTF
  - cliffe/SecGen
  - vaib25vicky/awesome-mobile-security
- - mantvydasb/RedTeam-Tactics-and-Techniques
+ - mantvydasb/RedTeaming-Tactics-and-Techniques
  - api0cradle/UltimateAppLockerByPassList
  - hisxo/gitGraber
  - S3cur3Th1sSh1t/WinPwn
@@ -50,8 +50,8 @@ items:
  - s0md3v/Photon
  - jivoi/awesome-osint
  - Manisso/fsociety
- - j3ssie/Osmedeus
- - rsmusllp/king-phisher
+ - j3ssie/osmedeus
+ - CrimsonForge-io/king-phisher
  - abhisharma404/vault
  - t0thkr1s/revshellgen
  - tina1998612/Awesome-Security-Tool-List
@@ -59,7 +59,7 @@ items:
  - belane/I-CTF-FWHIBBIT
  - ihebski/factordb
  - CFI-UL/2018-CFI-CTF
- - Execut3/Held-CTF
+ - Execut3/CTF
  - teambi0s/InCTFj
  - trimstray/the-book-of-secret-knowledge
  - ctf-wiki/ctf-wiki

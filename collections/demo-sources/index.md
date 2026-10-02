@@ -23,13 +23,16 @@ items:
  - excess-demogroup/amoeba
  - theblacklotus/suicide-barbie
  - theblacklotus/4edges
- - kusma/Open-World-Domination
+ - demoscene-source-archive/world-domination
  - jarnoh/doomsday
  - Moon70/ParallelMultiverse
  - aras-p/BlackHoleDemo
  - CookieCollective/Evoke-2019-4k
  - w23/jetlag_appear
  - in4k/crawlspace
+ - monadgroup/sy17
+ - monadgroup/re19
+ - jumalauta/jml-engine-demos
 
 display_name: Demo sources
 ---

@@ -10,16 +10,16 @@ items:
  - Komodo/KomodoEdit
  - leo-editor/leo-editor
  - syl20bnr/spacemacs
- - SpaceVim/SpaceVim
+ - wsdjeg/SpaceVim
  - alm-tools/alm
  - atom/atom
  - LightTable/LightTable
  - zedapp/zed
- - Microsoft/vscode
- - zyedidia/micro
+ - microsoft/vscode
+ - micro-editor/micro
  - neoedmund/neoeedit
  - mawww/kakoune
- - JasonStein/Notepads
+ - 0x7c13/Notepads
  - onivim/oni2
  - VSCodium/vscodium
  - JetBrains/intellij-community
@@ -32,7 +32,15 @@ items:
  - vim/vim
  - Alexey-T/CudaText
  - orbitalquark/textadept
-
+ - apache/netbeans
+ - adsr/mle
+ - helix-editor/helix
+ - lapce/lapce
+ - zed-industries/zed
+ - KDE/kate
+ - pulsar-edit/pulsar
+ - voideditor/void
+ - NeuralInverse/neuralinverse
 display_name: Text editors
 created_by: leereilly
 image: text-editors.png

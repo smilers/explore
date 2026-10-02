@@ -11,7 +11,14 @@ items:
  - getsentry/sentry
  - jenkinsci/jenkins
  - pybuilder/pybuilder
- - klaussinani/signale
+ - klaudiosinani/signale
+ - gitpod-io/gitpod
+ - gnustep/apps-gorm
+ - koalaman/shellcheck
+ - AhmedOsman101/commit-sage-cli
+ - semaphoreio/semaphore
+ - Nayjest/Gito
+ - dusan-maintains/oss-maintenance-log
 display_name: Software development tools
 ---
 Build apps better, faster, stronger.
